@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Michael! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A6FF&center=true&width=435&lines=C%23+.NET+Developer;Software+Engineering+Student;Backend+Developer;Clean+Architecture+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A6FF&center=true&width=435&lines=Python+C\C+++Developer;Software+Engineering+Student;Backend+Developer;Clean+Architecture+Advocate" />
 </p>
 
 ---
@@ -19,8 +19,7 @@
 ### CRM System for German company
 🔹 **Clean Architecture** web application using **FastAPI, Postgres**  
 🔹 **My Contributions:**  
-  - Implemented **Controllers, Services, Interfaces, DTOs** for:  
-    - ``   
+  - Implemented **Controllers, Services, Interfaces, DTOs** for:     
   - Configured **Docker containers for development & deployment**
 🔹 **Tech Used:** Postgres, SQLalchemy, FastAPI, JWT, Docker 
 
