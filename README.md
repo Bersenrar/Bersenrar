@@ -36,8 +36,8 @@
 ![Python](https://img.shields.io/badge/Python-512BD4?style=for-the-badge&logo=python&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-512BD4?style=for-the-badge&logo=python&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-5C2D91?style=for-the-badge&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/Postgres-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)   
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4479A1?style=for-the-badge)   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-0078D4?style=for-the-badge&logo=c++&logoColor=white) 
@@ -53,12 +53,12 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T8mpest&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T8mpest&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bersenrar&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bersenrar&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T8mpest&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bersenrar&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
