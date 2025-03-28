@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Michael! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A6FF&center=true&width=435&lines=Python+C\%2B%2B+Developer;Software+Engineering+Student;Backend+Developer;Clean+Architecture+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A6FF&center=true&width=435&lines=Python+C\C%2B%2B+Developer;Software+Engineering+Student;Backend+Developer;Clean+Architecture+Advocate" />
 </p>
 
 ---
