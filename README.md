@@ -19,7 +19,7 @@
 ### CRM System for German company
 🔹 **Clean Architecture** web application using **FastAPI, Postgres**  
 🔹 **My Contributions:**  
-  - Implemented **Controllers, Services, Interfaces, DTOs** for:     
+  - Implemented **Controllers, Services, Interfaces, DTOs**     
   - Configured **Docker containers for development & deployment**
 🔹 **Tech Used:** Postgres, SQLalchemy, FastAPI, JWT, Docker 
 
